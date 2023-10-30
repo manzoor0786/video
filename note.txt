@@ -1,0 +1,12 @@
+Json server creation in mode
+
+
+
+
+node  server create - npm init
+install json server- npm i json-server
+
+nodemon -provide automtic recompilation
+
+middlewares have the ability to control all server request in a server-
+if we apply middlewares in server, the middlewares will work before the request

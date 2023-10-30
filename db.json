@@ -1,0 +1,146 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "CallmeShazam",
+      "cover_img": "https://i.postimg.cc/cCjP6FQw/shazam.jpg",
+      "video_url": "https://www.youtube.com/embed/vRNuZH3sjQk?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": "Fun Da",
+      "cover_img": "https://i.postimg.cc/C5HfddQ1/download.jpg",
+      "video_url": "https://www.youtube.com/embed/heS-eC7IriE?autoplay=1"
+    },
+    {
+      "id": 4,
+      "caption": "Cricket",
+      "cover_img": "https://i.postimg.cc/ZqpYJ2gY/image.jpg",
+      "video_url": "https://www.youtube.com/embed/7bdYTvt5z9o?autoplay=1"
+    },
+    {
+      "id": 5,
+      "caption": "Lofi songs",
+      "cover_img": "https://i.postimg.cc/h4XgLMV1/download-2.jpg",
+      "video_url": "https://www.youtube.com/embed/ZSRyfmK_ZP0?autoplay=1"
+    },
+    {
+      "id": 6,
+      "caption": "Life of Ram",
+      "cover_img": "https://i.postimg.cc/hPMHNd8t/download-3.jpg",
+      "video_url": "https://www.youtube.com/embed/6LD30ChPsSs?autoplay=1"
+    },
+    {
+      "id": 7,
+      "caption": "React Js",
+      "cover_img": "https://i.postimg.cc/dtjSbQfG/download-2.jpg",
+      "video_url": "https://www.youtube.com/embed/bMknfKXIFA8?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sports",
+      "videos": [
+        {
+          "id": 4,
+          "caption": "Cricket",
+          "cover_img": "https://i.postimg.cc/ZqpYJ2gY/image.jpg",
+          "video_url": "https://www.youtube.com/embed/7bdYTvt5z9o?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lod3gvox",
+      "name": "Tech",
+      "videos": [
+        {
+          "id": 1,
+          "caption": "CallmeShazam",
+          "cover_img": "https://i.postimg.cc/cCjP6FQw/shazam.jpg",
+          "video_url": "https://www.youtube.com/embed/vRNuZH3sjQk?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lod3h44h",
+      "name": "Song",
+      "videos": [
+        {
+          "id": 6,
+          "caption": "Life of Ram",
+          "cover_img": "https://i.postimg.cc/hPMHNd8t/download-3.jpg",
+          "video_url": "https://www.youtube.com/embed/6LD30ChPsSs?autoplay=1"
+        },
+        {
+          "id": 5,
+          "caption": "Lofi songs",
+          "cover_img": "https://i.postimg.cc/h4XgLMV1/download-2.jpg",
+          "video_url": "https://www.youtube.com/embed/ZSRyfmK_ZP0?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Education",
+      "videos": [
+        {
+          "id": 7,
+          "caption": "React Js",
+          "cover_img": "https://i.postimg.cc/dtjSbQfG/download-2.jpg",
+          "video_url": "https://www.youtube.com/embed/bMknfKXIFA8?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo76lvqk",
+      "video_title": "Life of Ram",
+      "url": "https://www.youtube.com/embed/6LD30ChPsSs?autoplay=1",
+      "date": "2023-10-26 6:19:43 PM"
+    },
+    {
+      "id": "lo76nusz",
+      "video_title": "Fun Da",
+      "url": "https://www.youtube.com/embed/heS-eC7IriE?autoplay=1",
+      "date": "2023-10-26 6:21:16 PM"
+    },
+    {
+      "id": "lo76nvlf",
+      "video_title": "Cricket",
+      "url": "https://www.youtube.com/embed/7bdYTvt5z9o?autoplay=1",
+      "date": "2023-10-26 6:21:17 PM"
+    },
+    {
+      "id": "lo83p60m",
+      "video_title": "CallmeShazam",
+      "url": "https://www.youtube.com/embed/vRNuZH3sjQk?autoplay=1",
+      "date": "2023-10-27 9:46:04 AM"
+    },
+    {
+      "id": "lo84v5b3",
+      "video_title": "Fun Da",
+      "url": "https://www.youtube.com/embed/heS-eC7IriE?autoplay=1",
+      "date": "2023-10-27 10:18:43 AM"
+    },
+    {
+      "id": "lod0ats7",
+      "video_title": "CallmeShazam",
+      "url": "https://www.youtube.com/embed/vRNuZH3sjQk?autoplay=1",
+      "date": "2023-10-30 8:09:47 PM"
+    },
+    {
+      "id": "lod1y4ba",
+      "video_title": "CallmeShazam",
+      "url": "https://www.youtube.com/embed/vRNuZH3sjQk?autoplay=1",
+      "date": "2023-10-30 8:55:53 PM"
+    },
+    {
+      "id": "lod3my5j",
+      "video_title": "React Js",
+      "url": "https://www.youtube.com/embed/bMknfKXIFA8?autoplay=1",
+      "date": "2023-10-30 9:43:11 PM"
+    }
+  ]
+}
